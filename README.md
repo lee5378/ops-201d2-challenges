@@ -10,3 +10,7 @@ echo "thing1"
 echo "thing2"
 echo "thing3"
 ```
+
+This is the future of crypto currency:
+
+![thedoge](./assets/thedoge.jpg)
